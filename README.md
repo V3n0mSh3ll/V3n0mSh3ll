@@ -54,6 +54,14 @@ Tool Development: Designing CLI tools and security automation scripts in Python,
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Termux](https://img.shields.io/badge/Termux-000000?style=flat-square&logo=android&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white)
 
+### Featured Platform: [GrowthNiq](https://growthniq.com/)
+
+- **[Website Theme, WordPress, Shopify & CMS Detector](https://growthniq.com/theme-detector/)** - Inspect any website's CMS, WordPress theme, child theme, active plugins, Shopify theme, hosting, DNS, and TLS 1.3 security headers.
+- **[Reverse WordPress Theme & Plugin Websites Finder](https://growthniq.com/theme-websites-finder/)** - Discover live WordPress websites using any theme or plugin across 110M+ indexed domains with CSV export.
+- **[Verified AI Tools, LLMs, Coding Agents & MCP Directory](https://growthniq.com/ai-tools/)** - 221+ verified AI tools, coding IDEs, MCP servers, and multi-agent frameworks.
+
+[![wordpress-theme-detector](https://github-readme-stats.vercel.app/api/pin/?username=V3n0mSh3ll&repo=wordpress-theme-detector&theme=tokyonight&hide_border=true)](https://github.com/V3n0mSh3ll/wordpress-theme-detector) [![awesome-ai-tools-and-mcp-servers](https://github-readme-stats.vercel.app/api/pin/?username=V3n0mSh3ll&repo=awesome-ai-tools-and-mcp-servers&theme=tokyonight&hide_border=true)](https://github.com/V3n0mSh3ll/awesome-ai-tools-and-mcp-servers)
+
 ### Projects
 
 [![snakebite](https://github-readme-stats.vercel.app/api/pin/?username=V3n0mSh3ll&repo=snakebite&theme=tokyonight&hide_border=true)](https://github.com/V3n0mSh3ll/snakebite) [![devstarter](https://github-readme-stats.vercel.app/api/pin/?username=V3n0mSh3ll&repo=devstarter&theme=tokyonight&hide_border=true)](https://github.com/V3n0mSh3ll/devstarter)
